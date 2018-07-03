@@ -5,9 +5,6 @@
 Reproducible Python script for WaMDaM use cases on the fly with no login or any set up at all :heart_eyes:
 
 
-## Launch Mybinder to access all and run the Jupyte Notebooks for the Query and Select use cases (WaMDaM paper)  
-https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect
-
 ## Directly access the notebook and reproduce it on the fly    
 
 ## Overview**  
@@ -39,3 +36,6 @@ https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=
 ## Use Case 4  
 Use the WaMDaM Wizard to compare the scenarios
 
+
+## You may also launch Mybinder to access all and run the Jupyte Notebooks for the Query and Select use cases (WaMDaM paper)  
+https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect
