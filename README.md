@@ -3,7 +3,8 @@
 
 # JupyteNotebooks
 Reproducible Python script for WaMDaM use cases on the fly with no login or any set up at all :heart_eyes:
-
+They exist here 
+https://github.com/WamdamProject/WaMDaM_JupyteNotebooks/tree/master/1_QuerySelect
 
 ## Directly access the notebook and reproduce it on the fly    
 
