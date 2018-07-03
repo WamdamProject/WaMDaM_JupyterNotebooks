@@ -24,7 +24,7 @@ https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=
 https://mybinder.org/v2/gh/WamdamProject/JupyteNotebooks/master?filepath=1_QuerySelect/2_UseCase2_network.ipynb
 
 **3_Use_Case_3.1_TimeSeries**    
-https://mybinder.org/v2/gh/WamdamProject/JupyteNotebooks/master?filepath=1_QuerySelect/3_Use_Case_3.1_TimeSeries
+https://mybinder.org/v2/gh/WamdamProject/JupyteNotebooks/master?filepath=1_QuerySelect/3_Use_Case_3.1_TimeSeries.ipynb
 
 **4_Use_Case_3.1_Seasonal**      
 https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect/4_Use_Case_3.1_Seasonal.ipynb
