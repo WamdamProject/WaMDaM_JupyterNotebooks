@@ -33,6 +33,10 @@ https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=
 **6_Use_Case_3.3_array_reservoir**   
 https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect/6_Use_Case_3.3_array_reservoir.ipynb
 
+**7_Use_Case_3.4_Hydropower**   
+https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect/7_Use_Case_3.4_Hydropower.ipynb
+
+
 ## Use Case 4  
 Use the WaMDaM Wizard to compare the scenarios
 
