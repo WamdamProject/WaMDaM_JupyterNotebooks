@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/JupyteNotebooks/master)
+
+
 # JupyteNotebooks
 Reproducible Python script for WaMDaM use cases on the fly 
 
