@@ -2,7 +2,7 @@
 
 
 # JupyteNotebooks
-Reproducible Python script for WaMDaM use cases on the fly 
+Reproducible Python script for WaMDaM use cases on the fly with no login or any set up at all :heart_eyes:
 
 
 ## Launch Mybinder to access all and run the Jupyte Notebooks for the Query and Select use cases (WaMDaM paper)  
