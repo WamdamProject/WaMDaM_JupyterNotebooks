@@ -1,0 +1,14 @@
+WEAPObjectType,WEAPAttributeName
+Demand Site,Consumption
+Reservoir,Elevation-Curve
+Reservoir,Inflow
+Reservoir,Initial Storage
+Reservoir,Max. Turbine Flow
+Reservoir,Net Evaporation
+Reservoir,Observed Volume
+Reservoir,Storage Capacity
+Reservoir,Top of Inactive
+Reservoir,Volume Elevation Curve
+Reservoir,Volume-Curve
+Streamflow Gauge,Streamflow Data
+Transmission Link,Maximum Flow   Volume

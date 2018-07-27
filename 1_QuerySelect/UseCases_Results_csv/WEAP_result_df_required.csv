@@ -1,0 +1,73 @@
+ObjectType,ObjectCategoryName,ObjectTypeCV,AttributeName_Abstract,AttributeCategoryName,AttributeNameCV
+Demand Site,,Demand site,Annual Activity Level,,Demand
+Demand Site,,Demand site,Annual Water Use Rate,,Demand
+Demand Site,,Demand site,Consumption,,Depleted flow
+Demand Site,,Demand site,Demand Priority,,Priority
+Demand Site,,Demand site,Loss Rate,,
+Demand Site,,Demand site,Method,,
+Demand Site,,Demand site,Monthly Demand,,Demand
+Demand Site,,Demand site,Monthly Variation,,
+Demand Site,,Demand site,Reuse Rate,,
+Flow Requirement,,Demand site,Minimum Flow Requirement,,Demand
+Flow Requirement,,Demand site,Priority,,Priority
+Groundwater,,Groundwater,Initial Storage,,Volume
+Groundwater,,Groundwater,Maximum Withdrawal,,Volume
+Groundwater,,Groundwater,Method,,
+Groundwater,,Groundwater,Natural Recharge,,
+Groundwater,,Groundwater,Storage Capacity,,Max_Volume
+Reservoir,,Reservoir,Buffer Coefficient,,
+Reservoir,,Reservoir,Buffer Priority,,Priority
+Reservoir,,Reservoir,Elevation-Curve,,Elevation
+Reservoir,,Reservoir,Energy Demand,,
+Reservoir,,Reservoir,Generating Efficiency,,
+Reservoir,,Reservoir,Hydropower Priority,,
+Reservoir,,Reservoir,Inflow,,Flow
+Reservoir,,Reservoir,Initial Storage,,Volume
+Reservoir,,Reservoir,Loss to Groundwater,,
+Reservoir,,Reservoir,Max. Turbine Flow,,
+Reservoir,,Reservoir,Max. Turbine Flow,,Flow
+Reservoir,,Reservoir,Maximum Hydraulic Outflow,,
+Reservoir,,Reservoir,Net Evaporation,,Evaporation
+Reservoir,,Reservoir,Observed Volume,,Volume
+Reservoir,,Reservoir,Plant Factor,,
+Reservoir,,Reservoir,Priority,,Priority
+Reservoir,,Reservoir,Storage Capacity,,Max_Volume
+Reservoir,,Reservoir,Tailwater Elevation,,
+Reservoir,,Reservoir,Top of Buffer,,
+Reservoir,,Reservoir,Top of Conservation,,
+Reservoir,,Reservoir,Top of Inactive,,
+Reservoir,,Reservoir,Top of Inactive,,Min_Volume
+Reservoir,,Reservoir,Volume Elevation Curve,,Reservoir bathymetry curve
+Reservoir,,Reservoir,Volume-Curve,,Volume
+Return Flow,,Return flow,Gain from Groundwater,,Flow
+Return Flow,,Return flow,Loss from System,,
+Return Flow,,Return flow,Loss to Groundwater,,Flow
+Return Flow,,Return flow,Return Flow Routing,,Flow
+River Headflow,,Headflow,Headflow,,Flow
+River Reach,,Stream,Distance Marker,,
+River Reach,,Stream,Evaporation,,Evaporation
+River Reach,,Stream,Flow Stage Width,,
+River Reach,,Stream,Groundwater Inflow,,
+River Reach,,Stream,Groundwater Outflow,,
+River Reach,,Stream,Reach Length,,
+River Reach,,Stream,River Flooding Fraction,,
+River Reach,,Stream,River Flooding Threshold,,
+River Reach,,Stream,Surface Water Inflow,,
+Run of the River Hydro,,Run of the River Hydro,Energy Demand,,
+Run of the River Hydro,,Run of the River Hydro,Fixed Head,,
+Run of the River Hydro,,Run of the River Hydro,Generating Efficiency,,
+Run of the River Hydro,,Run of the River Hydro,Hydropower Priority,,Priority
+Run of the River Hydro,,Run of the River Hydro,Max Turbine Flow,,
+Run of the River Hydro,,Run of the River Hydro,Plant Factor,,
+Streamflow Gauge,,Site,Streamflow Data,,Flow
+Transmission Link,,Diversion,Loss from System,,
+Transmission Link,,Diversion,Loss to Groundwater,,
+Transmission Link,,Diversion,Maximum Flow   Percent of Demand,,
+Transmission Link,,Diversion,Maximum Flow   Volume,,Flow
+Transmission Link,,Diversion,Supply Preference,,
+WEAP Global Attributes,,,Acft_per_month_to_cfs,Key Assumptions,
+WEAP Global Attributes,,,Canal Transmission Losses,Key Assumptions,
+WEAP Global Attributes,,,Irrigation Consumption,Key Assumptions,Depleted flow
+WEAP Global Attributes,,,Seconds Per Month,Key Assumptions,
+Wastewater Treatment Plant,,Wastewater treatment plant,Consumption,,
+Wastewater Treatment Plant,,Wastewater treatment plant,Daily Capacity,,

@@ -1,0 +1,7 @@
+WASHObjectType,WASHAttributeName
+dem,dReq
+v,InitSTOR
+v,RA_par
+v,evap
+v,maxstor
+v,minstor
