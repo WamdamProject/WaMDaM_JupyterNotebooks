@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/1_QuerySelect/master)
 
 
 # JupyteNotebooks
