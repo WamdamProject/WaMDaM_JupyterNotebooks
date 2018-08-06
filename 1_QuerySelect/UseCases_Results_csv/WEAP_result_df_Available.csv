@@ -1,6 +1,9 @@
 WEAPObjectType,WEAPAttributeName
+Demand Site,Annual Activity Level
+Demand Site,Annual Water Use Rate
 Demand Site,Consumption
-Reservoir,Elevation-Curve
+Demand Site,Monthly Demand
+Flow Requirement,Minimum Flow Requirement
 Reservoir,Inflow
 Reservoir,Initial Storage
 Reservoir,Max. Turbine Flow
@@ -9,6 +12,5 @@ Reservoir,Observed Volume
 Reservoir,Storage Capacity
 Reservoir,Top of Inactive
 Reservoir,Volume Elevation Curve
-Reservoir,Volume-Curve
 Streamflow Gauge,Streamflow Data
 Transmission Link,Maximum Flow   Volume

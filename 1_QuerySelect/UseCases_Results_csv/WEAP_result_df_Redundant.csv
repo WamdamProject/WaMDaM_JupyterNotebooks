@@ -1,25 +1,130 @@
-WEAPObjectType,ObjectTypeCV,ObjectType,ResourceTypeAcronym,WEAPAttributeName,AttributeNameCV,AttributeName_Abstract
-Demand Site,Demand site,AGRICULTURAL IRRIGATION,WaDEData,Consumption,Depleted flow,
-Demand Site,Demand site,INDUSTRIAL,WaDEData,Consumption,Depleted flow,
-Demand Site,Demand site,MUNICIPAL/DOMESTIC/STOCK,WaDEData,Consumption,Depleted flow,
-Reservoir,Reservoir,Dam,US Major Dams,Elevation-Curve,Elevation,
-Reservoir,Reservoir,Dam,UtahDams,Elevation-Curve,Elevation,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Inflow,Flow,
-Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Max. Turbine Flow,Flow,
-Reservoir,Reservoir,RESERVOIR EVAPORATION,WaDEData,Net Evaporation,Evaporation,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Net Evaporation,Evaporation,
-Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,
-Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,
-Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,
-Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,
-Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,
-Reservoir,Reservoir,Dam,US Major Dams,Volume-Curve,Volume,
-Reservoir,Reservoir,Dam,UtahDams,Volume-Curve,Volume,
-Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Volume-Curve,Volume,
-Streamflow Gauge,Site,Flow,IdahoWRA,Streamflow Data,Flow,
-Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,
+WEAPObjectType,ObjectTypeCV,SourceObjectType,ResourceTypeAcronym,WEAPAttributeName,AttributeNameCV,SourceAttributeName,SourceInstanceName
+Demand Site,Demand site,Node,BearRiverWyoming,Annual Activity Level,Demand,Historic Diversion outflow,Node 1.02
+Demand Site,Demand site,Node,BearRiverWyoming,Annual Water Use Rate,Demand,Historic Diversion outflow,Node 1.02
+Demand Site,Demand site,AGRICULTURAL IRRIGATION,WaDEData,Consumption,Depleted flow,Water Use /surface,Bear River Basin ag
+Demand Site,Demand site,INDUSTRIAL,WaDEData,Consumption,Depleted flow,Water Use /surface,Bear River Basin I
+Demand Site,Demand site,MUNICIPAL/DOMESTIC/STOCK,WaDEData,Consumption,Depleted flow,Water Use /surface,Bear River Basin M
+Demand Site,Demand site,Node,BearRiverWyoming,Monthly Demand,Demand,Historic Diversion outflow,Node 1.02
+Flow Requirement,Demand site,Node,BearRiverWyoming,Minimum Flow Requirement,Demand,Historic Diversion outflow,Node 1.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Inflow,Flow,Historic Diversion outflow,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Inflow,Flow,Historic Diversion outflow,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Inflow,Flow,Import/Export net inflow,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Inflow,Flow,Import/Export net inflow,Node 6.01
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,BROADBENT ENLARGEMENT OF HEBER
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,DESERET - NEPONSET
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,LAKE VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,MONTPELIER CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,SULPHUR CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,WHITNEY
+Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,WOODRUFF NARROWS
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Blue Lake2
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Boyer Lake
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Burts Miller Ranch Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Crane Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Dry Hollow Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Grassy Lake (Hatch)
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Joyce Lake
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Little Long Hill Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,McFarland Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Moore Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Moslander Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,North Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Price Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Shearing Corral Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Sixmile Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Suttons Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Upper Huff Creek Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Windsor Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Woodruff Narrows Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Z Creek Reservoir
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Inactive Storage Pool,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Inactive Storage Pool,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Max Storage Capacity,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Max Storage Capacity,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Starting End-of-Month Contents,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Starting End-of-Month Contents,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Max. Turbine Flow,Flow,Historic Diversion outflow,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Max. Turbine Flow,Flow,Historic Diversion outflow,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Max. Turbine Flow,Flow,Import/Export net inflow,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Max. Turbine Flow,Flow,Import/Export net inflow,Node 6.01
+Reservoir,Reservoir,RESERVOIR EVAPORATION,WaDEData,Net Evaporation,Evaporation,Water Use /surface,Bear River Basin Res
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Net Evaporation,Evaporation,Net Evaporation - acre-ft,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Net Evaporation,Evaporation,Net Evaporation - acre-ft,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Net Evaporation,Evaporation,Net Evaporation - inches,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Net Evaporation,Evaporation,Net Evaporation - inches,Node 6.01
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,BROADBENT ENLARGEMENT OF HEBER
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,DESERET - NEPONSET
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,LAKE VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,MONTPELIER CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,SULPHUR CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,WHITNEY
+Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,WOODRUFF NARROWS
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Blue Lake2
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Boyer Lake
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Burts Miller Ranch Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Crane Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Dry Hollow Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Grassy Lake (Hatch)
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Joyce Lake
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Little Long Hill Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,McFarland Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Moore Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Moslander Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,North Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Price Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Shearing Corral Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Sixmile Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Suttons Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Upper Huff Creek Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Windsor Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Woodruff Narrows Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Z Creek Reservoir
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Inactive Storage Pool,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Inactive Storage Pool,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Max Storage Capacity,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Max Storage Capacity,Node 6.01
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Starting End-of-Month Contents,Node 2.02
+Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Starting End-of-Month Contents,Node 6.01
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,BROADBENT ENLARGEMENT OF HEBER
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,DESERET - NEPONSET
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,LAKE VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,MONTPELIER CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,SULPHUR CREEK
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,VIVA NAUGHTON
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WHITNEY
+Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WOODRUFF NARROWS
+Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Whitney Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Barker Reservoir2
+Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Neponset Reservoir
+Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Whitney Reservoir
+Streamflow Gauge,Site,Flow,IdahoWRA,Streamflow Data,Flow,Discharge,"BEAR RIVER AT BORDER, WY"
+Streamflow Gauge,Site,site,CUAHSI,Streamflow Data,Flow,"Discharge, cubic feet per second",BEAR RIVER NEAR UTAH-WYOMING STATE LINE
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,NUFFER
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,RIGBY
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,SORENSEN
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,WILLIAMSON (JENSEN)

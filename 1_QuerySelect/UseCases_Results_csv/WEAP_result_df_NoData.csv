@@ -22,8 +22,6 @@ Catchment,,Reuse Rate,
 Catchment,,Variable Benefits,Cost
 Catchment,,Variable Operating Costs,Cost
 Catchment,,Yield Response Factor,
-Demand Site,,Annual Activity Level,
-Demand Site,,Annual Water Use Rate,
 Demand Site,,BOD Concentration,Water Quality
 Demand Site,,BOD Inflow,Water Quality
 Demand Site,,BOD Intensity,Water Quality
@@ -38,7 +36,6 @@ Demand Site,,Fixed Benefits,Cost
 Demand Site,,Fixed Operating Costs,Cost
 Demand Site,,Loss Rate,
 Demand Site,,Method,
-Demand Site,,Monthly Demand,
 Demand Site,,Monthly Variation,
 Demand Site,,Reuse Rate,
 Demand Site,,Variable Benefits,Cost
@@ -46,7 +43,6 @@ Demand Site,,Variable Operating Costs,Cost
 Flow Requirement,,Capital Costs,Cost
 Flow Requirement,,Fixed Benefits,Cost
 Flow Requirement,,Fixed Operating Costs,Cost
-Flow Requirement,,Minimum Flow Requirement,
 Flow Requirement,,Priority,
 Flow Requirement,,Variable Benefits,Cost
 Flow Requirement,,Variable Operating Costs,Cost

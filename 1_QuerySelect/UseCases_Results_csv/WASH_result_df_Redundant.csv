@@ -1,6 +1,7 @@
 WASHObjectType,ObjectTypeCV,ObjectType,ResourceTypeAcronym,WASHAttributeName,AttributeNameCV,AttributeName_Abstract
 dem,Demand site,Demand Site,WEAP,dReq,Demand,Monthly Demand
 dem,Demand site,Flow Requirement,WEAP,dReq,Demand,Minimum Flow Requirement
+dem,Demand site,Node,BearRiverWyoming,dReq,Demand,
 v,Reservoir,Dam,US Major Dams,InitSTOR,Volume,
 v,Reservoir,Dam,UtahDams,InitSTOR,Volume,
 v,Reservoir,Reservoir,WEAP,InitSTOR,Volume,Initial Storage
