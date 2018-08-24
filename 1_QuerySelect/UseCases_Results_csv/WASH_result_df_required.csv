@@ -1,0 +1,62 @@
+ObjectType,ObjectCategoryName,ObjectTypeCV,AttributeName_Abstract,AttributeCategoryName,AttributeNameCV
+DiversionExist,,Diversion,Qmax,,
+DiversionExist,,Diversion,dCap,,
+DiversionExist,,Diversion,lss,,
+WASH Global Attributes,,Network,Z,,Watershed Area of Suitable Habitat
+WASH Global Attributes,,Network,b,,Cost
+dem,,Demand site,Dvalue,,
+dem,,Demand site,cons,,
+dem,,Demand site,dReq,,Demand
+envSiteExist,,Stream,CMax,,
+envSiteExist,,Stream,DiversionExist,,
+envSiteExist,,Stream,Func_typ,,
+envSiteExist,,Stream,InitC,,
+envSiteExist,,Stream,InitD,,
+envSiteExist,,Stream,LinkID,,
+envSiteExist,,Stream,LinkOutReservoir,,
+envSiteExist,,Stream,LinktoReservoir,,
+envSiteExist,,Stream,Qmax,,
+envSiteExist,,Stream,WetlandsExist,,
+envSiteExist,,Stream,aw,,
+envSiteExist,,Stream,envSiteExist,,
+envSiteExist,,Stream,fci_par,,
+envSiteExist,,Stream,fci_par1,,
+envSiteExist,,Stream,fci_par2,,
+envSiteExist,,Stream,fci_par3,,
+envSiteExist,,Stream,fci_par4,,
+envSiteExist,,Stream,h,,
+envSiteExist,,Stream,linkexist,,
+envSiteExist,,Stream,lng,,
+envSiteExist,,Stream,lss,,
+envSiteExist,,Stream,returnFlowExist,,
+envSiteExist,,Stream,rsi_par,,
+envSiteExist,,Stream,rsi_par1,,
+envSiteExist,,Stream,rsi_par2,,
+envSiteExist,,Stream,rsi_par3,,
+envSiteExist,,Stream,rsi_par4,,
+envSiteExist,,Stream,rv,,
+envSiteExist,,Stream,sf_par1,,
+envSiteExist,,Stream,sf_par2,,
+envSiteExist,,Stream,sf_par_indx,,
+envSiteExist,,Stream,t,,
+envSiteExist,,Stream,wf_par,,
+envSiteExist,,Stream,wf_par1,,
+envSiteExist,,Stream,wf_par2,,
+envSiteExist,,Stream,wght-floodplain,,
+envSiteExist,,Stream,wght-riverine,,
+envSiteExist,,Stream,wght-wetlands,,
+envSiteExist,,Stream,wsi_par,,
+envSiteExist,,Stream,wsi_par1,,
+envSiteExist,,Stream,wsi_par2,,
+returnFlowExist,,Return flow,Qmax,,
+returnFlowExist,,Return flow,lss,,
+v,,Reservoir,InitSTOR,,Volume
+v,,Reservoir,LinkOutReservoir,,
+v,,Reservoir,LinktoReservoir,,
+v,,Reservoir,RA_par,,Reservoir bathymetry curve
+v,,Reservoir,RA_par1,,Factor
+v,,Reservoir,RA_par2,,Factor
+v,,Reservoir,RA_par3,,Factor
+v,,Reservoir,evap,,Evaporation
+v,,Reservoir,maxstor,,Max_Volume
+v,,Reservoir,minstor,,Min_Volume
