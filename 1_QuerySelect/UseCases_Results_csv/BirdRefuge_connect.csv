@@ -1,0 +1,17 @@
+ResourceTypeAcronym,ScenarioName,LinkInstanceName,LinkObjectType,ObjectTypeCV,StartEndNode,StartInstanceLong,StartLatitude_y,StartNodeObjectType,EndNodeInstance,EndStartInstanceLong,EndLatitude_y,EndNodeObjectType
+WASH,base case scenario 2003,j20j21,envSiteExist,Stream,j20,-112.117,41.5861,j,j21,-112.143,41.491,j
+WASH,base case scenario 2003,j21j23,envSiteExist,Stream,j21,-112.143,41.491,j,j23,-112.222,41.4747,j
+WEAP,USU WEAP Model 2010,Return Flow from Bird Refuge to Return Flow Node 1,Return Flow,Return flow,Bird Refuge,-112.177,41.42575,Demand Site,Return Flow Node 1,-112.226,41.41716,Return Flow Node
+WEAP,USU WEAP Model 2010,Return Flow from Bird Refuge to Return Flow Node 1,Return Flow,Return flow,Bird Refuge,-112.177,41.42575,Demand Site,Return Flow Node 1,-112.226,41.41716,Return Flow Node
+WEAP,USU WEAP Model 2010,Blacksmith Fork to Hyrum Reservoir from Blacksmith Fork to Hyrum Reservoir Outflow to Blacksmith Fork to Hyrum Reservoir Inflow,River Reach,Stream,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Blacksmith Fork to Hyrum Reservoir from Blacksmith Fork to Hyrum Reservoir Outflow to Blacksmith Fork to Hyrum Reservoir Inflow,River Reach,Stream,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Blacksmith Fork to Hyrum Reservoir from Blacksmith Fork to Hyrum Reservoir Outflow to Blacksmith Fork to Hyrum Reservoir Inflow,River Reach,Stream,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Blacksmith Fork to Hyrum Reservoir from Blacksmith Fork to Hyrum Reservoir Outflow to Blacksmith Fork to Hyrum Reservoir Inflow,River Reach,Stream,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2010,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2017,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2017,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2017,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
+WEAP,USU WEAP Model 2017,Transmission Link from Withdrawal Node 1 to Bird Refuge,Transmission Link,Diversion,Withdrawal Node 1,-112.177,41.44894,River Withdrawal,Bird Refuge,-112.177,41.42575,Demand Site
