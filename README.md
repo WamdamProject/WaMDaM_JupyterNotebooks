@@ -11,4 +11,4 @@ https://github.com/WamdamProject/WaMDaM_JupyteNotebooks/tree/master/1_QuerySelec
 ## Overview**  
 
 ## You may also launch Mybinder to access all and run the Jupyte Notebooks for the Query and Select use cases (WaMDaM paper)  
-https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect/0_WaMDaM_Directions_and_Use_Cases.ipynb
+https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyteNotebooks/master?filepath=1_QuerySelect/00_WaMDaM_Directions_and_Use_Cases.ipynb
