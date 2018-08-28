@@ -53,12 +53,12 @@ River Reach,,Stream,Reach Length,,
 River Reach,,Stream,River Flooding Fraction,,
 River Reach,,Stream,River Flooding Threshold,,
 River Reach,,Stream,Surface Water Inflow,,
-Run of the River Hydro,,Run of the River Hydro,Energy Demand,,
-Run of the River Hydro,,Run of the River Hydro,Fixed Head,,
-Run of the River Hydro,,Run of the River Hydro,Generating Efficiency,,
-Run of the River Hydro,,Run of the River Hydro,Hydropower Priority,,Priority
-Run of the River Hydro,,Run of the River Hydro,Max Turbine Flow,,
-Run of the River Hydro,,Run of the River Hydro,Plant Factor,,
+Run of the River Hydro,,Hydroelectric plant,Energy Demand,,
+Run of the River Hydro,,Hydroelectric plant,Fixed Head,,
+Run of the River Hydro,,Hydroelectric plant,Generating Efficiency,,
+Run of the River Hydro,,Hydroelectric plant,Hydropower Priority,,Priority
+Run of the River Hydro,,Hydroelectric plant,Max Turbine Flow,,
+Run of the River Hydro,,Hydroelectric plant,Plant Factor,,
 Streamflow Gauge,,Site,Streamflow Data,,Flow
 Transmission Link,,Diversion,Loss from System,,
 Transmission Link,,Diversion,Loss to Groundwater,,

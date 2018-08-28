@@ -18,35 +18,6 @@ Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,SULPHUR 
 Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,VIVA NAUGHTON
 Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,WHITNEY
 Reservoir,Reservoir,Dam,US Major Dams,Initial Storage,Volume,NORMAL_STO,WOODRUFF NARROWS
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,Capacity,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,InitCap,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Blue Lake2
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Boyer Lake
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Burts Miller Ranch Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Crane Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Dry Hollow Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Grassy Lake (Hatch)
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Joyce Lake
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Little Long Hill Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,McFarland Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Moore Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Moslander Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,North Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Price Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Shearing Corral Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Sixmile Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Suttons Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Upper Huff Creek Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Windsor Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Woodruff Narrows Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Initial Storage,Volume,STORG_ACFT,Z Creek Reservoir
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Inactive Storage Pool,Node 2.02
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Inactive Storage Pool,Node 6.01
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Initial Storage,Volume,Max Storage Capacity,Node 2.02
@@ -70,35 +41,6 @@ Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,SULPHUR 
 Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,VIVA NAUGHTON
 Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,WHITNEY
 Reservoir,Reservoir,Dam,US Major Dams,Observed Volume,Volume,NORMAL_STO,WOODRUFF NARROWS
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,Capacity,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,InitCap,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Blue Lake2
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Boyer Lake
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Burts Miller Ranch Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Crane Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Dry Hollow Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Grassy Lake (Hatch)
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Joyce Lake
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Little Long Hill Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,McFarland Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Moore Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Moslander Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,North Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Price Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Shearing Corral Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Sixmile Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Suttons Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Upper Huff Creek Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Windsor Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Woodruff Narrows Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Observed Volume,Volume,STORG_ACFT,Z Creek Reservoir
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Inactive Storage Pool,Node 2.02
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Inactive Storage Pool,Node 6.01
 Reservoir,Reservoir,Reservoir Node,BearRiverWyoming,Observed Volume,Volume,Max Storage Capacity,Node 2.02
@@ -113,18 +55,4 @@ Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,SULPH
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,VIVA NAUGHTON
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WHITNEY
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WOODRUFF NARROWS
-Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Storage Capacity,Max_Volume,MaxCap,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Top of Inactive,Min_Volume,MinCap,Whitney Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Barker Reservoir2
-Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Neponset Reservoir
-Reservoir,Reservoir,Dam,UtahDams,Volume Elevation Curve,Reservoir bathymetry curve,Stage-Area-Capacity,Whitney Reservoir
-Streamflow Gauge,Site,Flow,IdahoWRA,Streamflow Data,Flow,Discharge,"BEAR RIVER AT BORDER, WY"
 Streamflow Gauge,Site,site,CUAHSI,Streamflow Data,Flow,"Discharge, cubic feet per second",BEAR RIVER NEAR UTAH-WYOMING STATE LINE
-Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,NUFFER
-Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,RIGBY
-Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,SORENSEN
-Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,WILLIAMSON (JENSEN)

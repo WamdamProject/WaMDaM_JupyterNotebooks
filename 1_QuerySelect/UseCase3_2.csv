@@ -1,13 +1,13 @@
 ResourceTypeAcronym,ScenarioName,AttributeName,AttributeName_Abstract,AttributeNameCV,AttributeCategoryName,AggregationStatisticCV,IntervalTimeUnitCV,UnitNameCV,UnitName,WaterYear,CumulativeAnnual,NumDemandSites,CountValues
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2005,25803.9784098,6,72
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2006,32665.7847722,6,72
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2007,28218.1543065,6,72
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2008,27096.5961927,6,72
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2009,28246.3204476,6,72
-WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2010,27982.2177901,6,72
-WEAP,USU WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2005,17423.0,1,12
-WEAP,USU WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2006,21122.0,1,12
-WEAP,USU WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2007,19713.0,1,12
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2005,41820.0143405,7,84
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2006,45196.2230644,7,84
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2007,39420.9015869,7,84
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2008,36867.0246615,7,84
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2009,37244.3538311,7,84
+WASH,base case scenario 2003,dReq,dReq,Demand,,Cumulative,month,Million cubic meter per month,Million cubic meter per month,2010,37148.1757408,7,84
+WEAP,Bear River WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2005,17423.0,1,12
+WEAP,Bear River WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2006,21122.0,1,12
+WEAP,Bear River WEAP Model 2010,Monthly Demand_TS,Monthly Demand,Demand,,Cumulative,month,acre foot,AF,2007,19713.0,1,12
 WaDEData,Utah Data,Diversions /surface water,,Delivered flow,Surface Water,Cumulative,Year,acre foot,acre-feet/year,2005,184440.67,1,1
 WaDEData,Utah Data,Diversions /surface water,,Delivered flow,Surface Water,Cumulative,Year,acre foot,acre-feet/year,2006,225836.47,1,1
 WaDEData,Utah Data,Diversions /surface water,,Delivered flow,Surface Water,Cumulative,Year,acre foot,acre-feet/year,2007,253368.95,1,1

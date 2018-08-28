@@ -10,7 +10,4 @@ Reservoir,Max. Turbine Flow
 Reservoir,Net Evaporation
 Reservoir,Observed Volume
 Reservoir,Storage Capacity
-Reservoir,Top of Inactive
-Reservoir,Volume Elevation Curve
 Streamflow Gauge,Streamflow Data
-Transmission Link,Maximum Flow   Volume
