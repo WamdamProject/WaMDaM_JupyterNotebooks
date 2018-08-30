@@ -1,4 +1,0 @@
-ResourceTypeAcronym,ScenarioName,ObjectTypeCV,AttributeNameCV,AttributeDataTypeCV,NumDemandSites,TotalNumeric,TotalAnnualUseCacheCanals
-WEAP,Bear River WEAP Model 2010,Demand site,Demand,NumericValues,2,0.0,
-WEAP,Bear River WEAP Model 2017,Demand site,Demand,NumericValues,2,46448.39,
-WEAP,Bear River WEAP Model 2017,Demand site,Demand,SeasonalNumericValues,8,,168173.250521
