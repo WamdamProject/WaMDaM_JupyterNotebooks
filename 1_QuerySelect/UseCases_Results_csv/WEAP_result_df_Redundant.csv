@@ -55,4 +55,9 @@ Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,SULPH
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,VIVA NAUGHTON
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WHITNEY
 Reservoir,Reservoir,Dam,US Major Dams,Storage Capacity,Max_Volume,MAX_STOR,WOODRUFF NARROWS
+Streamflow Gauge,Site,Flow,IdahoWRA,Streamflow Data,Flow,Discharge,"BEAR RIVER AT BORDER, WY"
 Streamflow Gauge,Site,site,CUAHSI,Streamflow Data,Flow,"Discharge, cubic feet per second",BEAR RIVER NEAR UTAH-WYOMING STATE LINE
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,NUFFER
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,RIGBY
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,SORENSEN
+Transmission Link,Diversion,Diversion,IdahoWRA,Maximum Flow   Volume,Flow,Discharge,WILLIAMSON (JENSEN)
