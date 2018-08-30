@@ -1,2 +1,0 @@
-ResourceTypeAcronym,ScenarioName,LinkInstanceName,LinkObjectType,ObjectTypeCV,StartEndNode,StartInstanceLong,StartLatitude_y,StartNodeObjectType,EndNodeInstance,EndStartInstanceLong,EndLatitude_y,EndNodeObjectType
-CALVIN,Base Case,"SR_SHA,D5",Calvin Link,,SR_SHA,40.716872,-122.418122,Surface Storage,D5,40.612004,-122.446023,Junction
