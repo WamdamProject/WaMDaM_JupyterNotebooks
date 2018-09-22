@@ -14,7 +14,8 @@ https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/blob/master/1_QuerySele
 
 Static Image of Jupyter Notebooks: https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/tree/master/1_QuerySelect
 
+
+## Recommended Citation: 
 Check out the [WaMDaM manuscript](https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/raw/master/WaMDaM_paper_September_2018_Final.pdf)     
 
-## Recommended Citation:
 Adel Abdallah, David E. Rosenberg (submitted). " A Data Model to Manage Data for Water Resources Systems Modeling." Submitted to Environmental Modeling & Software. September 2018. 
