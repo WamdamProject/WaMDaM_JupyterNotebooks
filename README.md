@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/139534309.svg)](https://zenodo.org/badge/latestdoi/139534309)
+
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master)
 
 
