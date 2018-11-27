@@ -3,7 +3,7 @@
 */
 
 Select DISTINCT ResourceTypeAcronym,ScenarioName,ObjectTypeCV,AttributeName_Abstract,AttributeNameCV,UnitName,
-InstanceName,SeasonName,SeasonOrder,SeasonNumericValue
+InstanceName,SeasonName,SeasonNumericValue,SeasonOrder
 
 
 FROM ResourceTypes
