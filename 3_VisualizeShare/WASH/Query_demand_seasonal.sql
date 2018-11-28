@@ -56,6 +56,6 @@ AND ScenarioName=='Many years'
 
 AND AttributeDataTypeCV='SeasonalNumericValues'
 
-AND InstanceName in ('j3')
+AND InstanceName in ('j4j39')
 
-Order  BY ScenarioName, InstanceName
+Order  BY ScenarioName, InstanceName, SeasonOrder
