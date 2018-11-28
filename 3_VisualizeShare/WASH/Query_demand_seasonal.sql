@@ -48,7 +48,8 @@ LEFT JOIN "SeasonalNumericValues"
 ON "SeasonalNumericValues"."ValuesMapperID" = "ValuesMapper"."ValuesMapperID" 
 
 
-WHERE AttributeName ='dReq'
+--WHERE AttributeName ='dReq'
+WHERE AttributeName ='Qmax'
 
 
 AND ScenarioName=='Many years'
