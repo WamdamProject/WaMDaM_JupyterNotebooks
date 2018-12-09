@@ -48,14 +48,14 @@ LEFT JOIN "SeasonalNumericValues"
 ON "SeasonalNumericValues"."ValuesMapperID" = "ValuesMapper"."ValuesMapperID" 
 
 
---WHERE AttributeName ='dReq'
-WHERE AttributeName ='Qmax'
+WHERE AttributeName ='dReqBase'
+--WHERE AttributeName ='Qmax'
 
 
-AND ScenarioName=='Many years'
+--AND ScenarioName=='Many years'
 
 AND AttributeDataTypeCV='SeasonalNumericValues'
 
-AND InstanceName in ('j4j39')
+AND InstanceName in ('j3')
 
 Order  BY ScenarioName, InstanceName, SeasonOrder
