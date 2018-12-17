@@ -45,7 +45,7 @@ AttributeDataTypeCV='TimeSeries'
 
 AND ResourceTypeAcronym='WaterLP v0.3'
 
---AND AttributeName='Natural Recharge'
+AND AttributeName='Natural Recharge'
 
 AND InstanceName='Mina'
 
