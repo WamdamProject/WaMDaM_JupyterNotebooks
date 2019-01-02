@@ -43,9 +43,8 @@ ON "TimeSeriesValues"."TimeSeriesID"="TimeSeries"."TimeSeriesID"
 WHERE
 AttributeDataTypeCV='TimeSeries'
 
-AND ResourceTypeAcronym='WaterLP v0.3'
 
---AND AttributeName=''
+AND AttributeNameCV in ('Delivery target','Delivered flow')
 
 AND InstanceName='DR Bajo Rio San Juan'
 
