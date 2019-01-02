@@ -48,3 +48,6 @@ AND ResourceTypeAcronym='WaterLP v0.3'
 --AND AttributeName=''
 
 AND InstanceName='DR Bajo Rio San Juan'
+
+
+and ScenarioName in ('Baseline', 'Calibration')
