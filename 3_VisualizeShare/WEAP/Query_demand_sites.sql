@@ -51,7 +51,8 @@ ON "SeasonalNumericValues"."ValuesMapperID" = "ValuesMapper"."ValuesMapperID"
 WHERE AttributeName_Abstract ='Monthly Demand'
 
 
-AND ScenarioName=='Bear River WEAP Model 2017'
+AND ScenarioName in ('Bear River WEAP Model 2017','Cons25PercCacheUrbWaterUse',
+'Incr25PercCacheUrbWaterUse')
 
 AND AttributeDataTypeCV IN ('SeasonalNumericValues')
 
