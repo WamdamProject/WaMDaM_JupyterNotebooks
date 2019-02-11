@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master)
 
 
-# Jupyter Notebooks for WaMDaM   
+# Jupyter Notebooks for WaMDaM paper  
 
 By Adel M. Abdallah, Utah State University, September 2018    
 
