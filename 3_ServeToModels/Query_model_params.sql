@@ -1,6 +1,6 @@
 
 
-SELECT ResourceTypeAcronym,ScenarioName,ObjectType,AttributeName,InstanceName
+SELECT ResourceTypeAcronym,ScenarioName,ObjectType,AttributeName_Abstract,InstanceName
 
 FROM ResourceTypes
 
