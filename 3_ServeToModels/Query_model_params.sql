@@ -1,6 +1,6 @@
 
 
-SELECT ResourceTypeAcronym,ScenarioName,ObjectType,AttributeName_Abstract,InstanceName
+SELECT ResourceTypeAcronym,ScenarioName,ObjectType,InstanceName,AttributeName_Abstract
 
 FROM ResourceTypes
 
@@ -50,3 +50,4 @@ AND "ResourceTypeAcronym"='WEAP'
 
 AND ScenarioName='Bear River WEAP Model 2017'
 
+Order by ObjectType,InstanceName,AttributeName_Abstract asc
