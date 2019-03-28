@@ -55,6 +55,6 @@ AND ScenarioName in ('Bear River WEAP Model 2017')
 
 AND AttributeDataTypeCV IN ('SeasonalNumericValues')
 
-AND InstanceName in ('Logan Potable')
+AND InstanceName in ('Logan Irr')
 
 GROUP  BY ScenarioName, InstanceName,SeasonOrder
