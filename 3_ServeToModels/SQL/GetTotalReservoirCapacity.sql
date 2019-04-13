@@ -68,7 +68,7 @@ Group by ScenarioName
 UNION 
 -------------------------------------------------------------------------------------------
 
-Select ScenarioName,COUNT (DISTINCT (InstanceName)) As '#Reservoirs',sum(NumericValue) As 'TotalCapacity'
+Select ScenarioName,(InstanceName) As '#Reservoirs',sum(NumericValue) As 'TotalCapacity'
 
 /*ObjectTypeCV,ObjectType,AttributeName_Abstract,AttributeDataTypeCV,InstanceName,
 UnitName,MethodName,SourceName,
