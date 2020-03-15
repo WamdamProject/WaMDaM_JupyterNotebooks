@@ -146,7 +146,7 @@ Union
 
 
 
-SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)**60.37/492*12 as 'AnnualDischarge'
+SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)*60.37/492*12 as 'AnnualDischarge'
 --multiplier: convert cfs/month to acre-feet/month then divide the sum over 492 months in the simulation period
 FROM "ResourceTypes"
 
