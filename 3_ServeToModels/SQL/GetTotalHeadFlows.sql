@@ -1,4 +1,5 @@
-SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)*60.37/66 as 'AnnualDischarge'
+SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)*60.37/684*12 as 'AnnualDischarge'
+--multiplier: convert cfs/month to acre-feet/month then divide the sum over 684 months in the simulation period
 
 FROM "ResourceTypes"
 
@@ -59,8 +60,6 @@ ON "TimeSeriesValues"."TimeSeriesID"="TimeSeries"."TimeSeriesID"
 
 WHERE 
 AttributeDataTypeCV='TimeSeries' and DataValue is not null
-
-
 
 AND AttributeName_Abstract='Headflow'
 
@@ -139,8 +138,6 @@ AttributeDataTypeCV='SeasonalNumericValues' and 'SeasonalNumericValue' is not nu
 
 AND AttributeName_Abstract='Headflow'
 
---AND InstanceName='Wanship to Echo' 
-
 AND ScenarioName='Base' 
 
 
@@ -149,8 +146,8 @@ Union
 
 
 
-SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)*60.37/60 as 'AnnualDischarge'
-
+SELECT ResourceTypeAcronym,ScenarioName,Count (DISTINCT InstanceName) As '#Instance' ,AttributeDataTypeCV,AttributeName_Abstract,Sum(DataValue)**60.37/492*12 as 'AnnualDischarge'
+--multiplier: convert cfs/month to acre-feet/month then divide the sum over 492 months in the simulation period
 FROM "ResourceTypes"
 
 Left JOIN "ObjectTypes" 
@@ -284,9 +281,6 @@ WHERE
 AttributeDataTypeCV='SeasonalNumericValues' and 'SeasonalNumericValue' is not null
 
 
-
 AND AttributeName_Abstract='Headflow'
-
---AND InstanceName='Wanship to Echo' 
 
 AND ScenarioName='Bear River WEAP Model 2017' 
