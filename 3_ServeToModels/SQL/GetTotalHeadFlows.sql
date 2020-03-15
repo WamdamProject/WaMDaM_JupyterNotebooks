@@ -61,13 +61,13 @@ ON "TimeSeriesValues"."TimeSeriesID"="TimeSeries"."TimeSeriesID"
 WHERE 
 AttributeDataTypeCV='TimeSeries' and DataValue is not null
 
-AND AttributeName_Abstract='Headflow'
+AND AttributeName_Abstract in ('Headflow','Surface Water Inflow')
 
 --AND InstanceName='Wanship to Echo' 
 
 AND ScenarioName='Base' 
 
---Group by ScenarioName
+Group by AttributeName_Abstract
 
 
 Union
@@ -140,6 +140,9 @@ AND AttributeName_Abstract='Headflow'
 
 AND ScenarioName='Base' 
 
+AND AttributeName_Abstract in ('Headflow','Surface Water Inflow')
+
+Group by AttributeName_Abstract
 
 
 Union 
@@ -209,12 +212,14 @@ WHERE
 AttributeDataTypeCV='TimeSeries' and DataValue is not null
 
 
-AND AttributeName_Abstract='Headflow'
+AND AttributeName_Abstract in ('Headflow','Surface Water Inflow')
 
 
 AND ScenarioName='Bear River WEAP Model 2017' 
 
---Group by ScenarioName
+Group by AttributeName_Abstract
+
+
 
 UNION
 
@@ -281,6 +286,9 @@ WHERE
 AttributeDataTypeCV='SeasonalNumericValues' and 'SeasonalNumericValue' is not null
 
 
-AND AttributeName_Abstract='Headflow'
+AND AttributeName_Abstract in ('Headflow','Surface Water Inflow')
+
 
 AND ScenarioName='Bear River WEAP Model 2017' 
+
+Group by AttributeName_Abstract
