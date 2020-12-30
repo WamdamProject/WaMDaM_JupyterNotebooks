@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=1_QuerySelect)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=3_VisualizePublish)
 
 
 # JupyteNotebooks
@@ -7,5 +7,4 @@ Reproducible Python script for WaMDaM use cases presented in this paper: An Inte
 ## Directly access the notebook and reproduce it on the fly    
 
 ## Get Started**  
-https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=3_VisualizePublish
-/00_WaMDaM_Directions_and_Use_Cases.ipynb
+https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=3_VisualizePublish/00_WaMDaM_Directions_and_Use_Cases.ipynb
