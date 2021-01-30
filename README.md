@@ -6,7 +6,7 @@
 
 # Jupyter Notebooks for WaMDaM paper  
 
-By Adel M. Abdallah, Utah State University, September 2018    
+By Adel M. Abdallah, Jan 2021
 
 The Water Management Data Model (WaMDaM) is a relational database and set of software tools that use contextual metadata and controlled vocabularies to organize water management data from multiple sources and models and allow users to more easily interact with their simulation and optimization models. These Jypyter Notebooks provide the directions and code to use WaMDaM and run five use cases that draw on thirteen datasets and models focused in the Bear River Watershed, USA. Use cases allow a user to identify, compare, and choose from multiple types of data, networks, and scenario elements then serve data to and run models.     
 
