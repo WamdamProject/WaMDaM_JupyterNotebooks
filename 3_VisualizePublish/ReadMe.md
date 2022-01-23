@@ -4,6 +4,20 @@
 # JupyteNotebooks
 Reproducible Python script for WaMDaM use cases presented in this paper: An Interoperable Software Ecosystem to Store, Visualize, And Publish Water Resources Systems Modelling Data
 
+
+## HydroShare 
+https://hydroshare.github.io/hsclient/
+
+## OpenAgua
+https://github.com/OpenAgua
+
+## HydraPlatform
+https://github.com/hydraplatform
+
+## WaMDaM
+https://github.com/WamdamProject
+
+
 ## Directly access the notebook and reproduce it on the fly    
 
 ## Get Started**  
