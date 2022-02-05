@@ -1,6 +1,9 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=3_VisualizePublish)
 
 
+### For users wanting to see the a step-by step description of how the software ecosystm works without using JupyterNoteboos,  check out these PDF files   https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/tree/master/3_VisualizePublish/Notebooks_PDF
+
+
 # JupyteNotebooks
 Reproducible Python script for WaMDaM use cases presented in this paper: An Interoperable Software Ecosystem to Store, Visualize, And Publish Water Resources Systems Modelling Data
 
