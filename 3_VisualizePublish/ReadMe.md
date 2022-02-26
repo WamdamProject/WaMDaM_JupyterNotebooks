@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WamdamProject/WaMDaM_JupyterNotebooks/master?filepath=3_VisualizePublish)
 
 
-### For users wanting to see the a step-by step description of how the software ecosystem works without using Jupyter Noteboos, check out these PDF files https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/tree/master/3_VisualizePublish/Notebooks_PDF
+### For users wanting to see the a step-by step description of how the software ecosystem works without using Jupyter Notebooks, check out these PDF files https://github.com/WamdamProject/WaMDaM_JupyterNotebooks/tree/master/3_VisualizePublish/Notebooks_PDF
 
 
 # JupyterNotebooks
